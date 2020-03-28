@@ -2,7 +2,6 @@
 menu:
   Home: .
   Archives: archives
-  Categories: categories
   Tags: tags
   About: about
 
@@ -26,10 +25,7 @@ customize:
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: css/images/logo-center.png # path to favicon
     social_links:
-        twitter: /
         facebook: https://www.facebook.com/xubaxabu/
-        dribbble: /
-        rss: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
