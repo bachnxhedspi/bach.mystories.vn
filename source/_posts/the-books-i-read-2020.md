@@ -1,6 +1,6 @@
 title: Sách mình đã đọc trong năm 2020
 tags: learning
-thumbnail: 'https://i.imgur.com/Vv8mqgx.jpg'
+thumbnail: 'https://i.imgur.com/OtwihQs.jpg'
 date: 2020-03-28 08:30:48
 ---
 Sang năm 2020, Corona làm cả thế giới gián đoạn, nhiều ngành nghề bị ảnh hưởng có nặng có nhẹ. Như công việc của mình thì được phép làm tại nhà, và cũng cho mình nhiều thời gian để đọc sách hơn. 
