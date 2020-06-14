@@ -54,6 +54,7 @@ Mình khá ngạc nhiên khi biết đến sự tồn tại của cuốn sách n
 Mình có xu hướng bỏ qua các khái niệm vật lý trong sách, chúng được sử dụng khi kể về những phát minh của ông. Lý do là vì dù đã học nhưng đều quên hết sạch rồi... Bỏ qua những câu chuyện này thì cuốn sách vẫn có nhiều tư tưởng thú vị về cách ông ghi nhớ và tạo ra phát minh của mình. Có một điểm mấu chốt là tưởng tượng kỹ càng trước khi thực hiện thí nghiệm, điều này đã giúp ông tiết kiệm được thời gian và công sức khi làm việc. Đối chiếu với ngành của mình (programmer) cũng có 1 hiệu quả nhất định, thay vì bắt tay vào làm ngay lập tức thì ta ngồi phân tích, thiết kế,... cẩn trọng. Từ đó cũng giúp tiết kiệm thời gian làm việc. 
 
 ### <a name="tu-thu-lanh-dao">Tứ thư lãnh đạo</a>
+Mới đọc xong 1/4 cuốn...
 
 ### <a name="mat-biec">Mắt biếc</a>
 
