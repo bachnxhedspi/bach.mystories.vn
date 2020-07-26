@@ -15,6 +15,10 @@ Sang năm 2020, Corona làm cả thế giới gián đoạn, nhiều ngành ngh�
 3. [Cuộc đời kỳ lạ của Nikola Tesla](#cuoc-doi-ky-la-cua-nikola-tesla)
 4. [Tứ thư lãnh đạo](#)
 5. [Mắt biếc](#mat-biec)
+6. [Tìm mình trong thế giới hậu tuổi thơ](#tim-minh-trong-the-gioi-hau-tuoi-tho)
+7. [Chủ nghĩa khắc kỷ](#chu-nghia-khac-ky)
+8. [Sức mạnh tiềm thức](#suc-manh-tiem-thuc)
+9. [Khoa học điều trí khiển tâm](#khoa-hoc-dieu-tri-khien-tam)
 
 
 ***
@@ -71,3 +75,15 @@ Và đọc đi đọc lại thì hình như trong quá khứ của mình cũng t
 
 Có 1 điểm cộng là Phan Mạnh Quỳnh sáng tác nhạc phim rất hay, đọc truyện mà thỉnh thoảng mình vẫn lẩm bẩm theo từng lời ca của "Có chàng trai viết lên cây", "Từ đó",...
 
+### <a name="tim-minh-trong-the-gioi-hau-tuoi-tho">Tìm mình trong thế giới hậu tuổi thơ</a>
+
+- Tác giả: Đặng Hoàng Giang
+- Khuyên đọc: 8/10
+
+Thế nào là người lớn? Những đứa trẻ kẹt trong thân xác người lớn vì cha mẹ/người thân thiếu những kỹ năng gì? 1 cuốn sách hay rất nên đọc - nhất là những bạn tuổi vị thành niên hoặc những vị phụ huynh.
+
+Mình có nói chuyện về cuốn sách này, slide có thể xem ở [đây](https://docs.google.com/presentation/d/14JxyC22BvUYd16UIWh3HUHSBA8JgjF_X7wDBPv_pPyE/edit?usp=sharing).
+
+### <a name="chu-nghia-khac-ky">Chủ nghĩa khắc kỷ</a>
+### <a name="suc-manh-tiem-thuc">Sức mạnh tiềm thức</a>
+### <a name="khoa-hoc-dieu-tri-khien-tam">Khoa học điều trí khiển tâm</a>
