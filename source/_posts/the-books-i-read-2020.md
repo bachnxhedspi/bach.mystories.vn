@@ -19,7 +19,10 @@ Sang năm 2020, Corona làm cả thế giới gián đoạn, nhiều ngành ngh�
 7. [Chủ nghĩa khắc kỷ](#chu-nghia-khac-ky)
 8. [Sức mạnh tiềm thức](#suc-manh-tiem-thuc)
 9. [Khoa học điều trí khiển tâm](#khoa-hoc-dieu-tri-khien-tam)
-
+10. [Điểm đến của cuộc đời](#diem-den-cua-cuoc-doi)
+13. [Made in Japan](#made-in-japan)
+14. [TED Talks: The Official TED Guide to Public Speaking](#ted-talks-the-official-ted-guide-to-public-speaking)
+15. [How to Live on 24 Hours a Day](#how-to-live-on-24-hours-a-day)
 
 ***
 
@@ -84,6 +87,30 @@ Thế nào là người lớn? Những đứa trẻ kẹt trong thân xác ngư�
 
 Mình có nói chuyện về cuốn sách này, slide có thể xem ở [đây](https://docs.google.com/presentation/d/14JxyC22BvUYd16UIWh3HUHSBA8JgjF_X7wDBPv_pPyE/edit?usp=sharing).
 
+### <a name="diem-den-cua-cuoc-doi">Điểm đến của cuộc đời</a>
+
 ### <a name="chu-nghia-khac-ky">Chủ nghĩa khắc kỷ</a>
+
 ### <a name="suc-manh-tiem-thuc">Sức mạnh tiềm thức</a>
+
 ### <a name="khoa-hoc-dieu-tri-khien-tam">Khoa học điều trí khiển tâm</a>
+
+### <a name="made-in-japan">Made in Japan</a>
+
+### <a name="ted-talks-the-official-ted-guide-to-public-speaking">TED Talks: The Official TED Guide to Public Speaking</a>
+
+### <a name="how-to-live-on-24-hours-a-day">How to Live on 24 Hours a Day</a>
+
+- Tác giả: Arnold Bennett
+- Khuyên đọc: 10/10
+
+Một cuốn sách mỏng, mình đã đọc ebook rồi nhưng mà quyết mua thêm bản cứng về đọc cho thấm thía. Một điểm thúc đẩy mình đọc là đoạn dẫn nhập vào cuốn sách: tại sao mọi người đều đổ xô đi học cách tiết kiệm tiền mà lại chẳng có ai nói về việc phải học cách sử dụng thời gian cho hiệu quả cả. Mà sự quan trọng giữa thời gian và tiền thì chắc ai cũng biết cả rồi.
+
+## Lời kết
+
+Hình như là hết rồi, sang 2021 mà còn nhớ ra mình sẽ cập nhật lại sau vậy. Năm nay về số lượng cũng gần gần như năm 2019, chất lượng thì không rõ thế nào... Tuy nhiên có mấy mục tiêu về sách mình vẫn chưa đạt được.
+- Đọc hoàn chỉnh 1 cuốn sách bằng tiếng Nhật 
+- Bỏ được cái tật mua sách về mà không đọc (nhất là những lần đi bookoff)
+- Đọc nhiều sách liên quan đến công việc hơn 
+
+Hi vọng sang năm 2021 sẽ hoàn thành được điều nào đó trong mấy điểm trên...
