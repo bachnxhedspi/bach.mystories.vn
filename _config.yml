@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My Stories
+title: BáchPack
 subtitle:
 description:
 author: Bach Nguyen
-language: en_US
+language: en
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: icarus-mod
+theme: ayer-mod
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -72,3 +72,8 @@ deploy:
   repo: https://github.com/khanhtc1202/my-stories-blog.git
   branch: master
   ignore_hidden: false
+
+search:
+  path: search.xml
+  field: post
+  format: html
