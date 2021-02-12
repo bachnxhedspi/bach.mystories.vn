@@ -149,3 +149,14 @@ parcelRequire = function(e, r, t, n) {
         "./js/share": "BNiz"
     }]
 }, {}, ["epB2"], null)
+
+$.ajax({
+    type: "head", url: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+    crossDomain: true,
+    success: function (data, text) {
+        // skip
+    },
+    error: function (request, status, error) {
+        alert("Please disable adblock, it helps me running this blog :)");
+    }
+});
