@@ -151,13 +151,14 @@ parcelRequire = function(e, r, t, n) {
 }, {}, ["epB2"], null)
 
 $.ajax({
-    type: "head", url: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+    type: "HEAD", url: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+    dataType: 'jsonp',
     crossDomain: true,
     success: function (data, text) {
         // skip
     },
     error: function (request, status, error) {
-        console.log(request, status, error);
-        alert("Please disable adblock, it helps me running this blog :)");
+        if(request.status==404)
+            alert("Please disable adblock, it helps me running this blog :)");
     }
 });
