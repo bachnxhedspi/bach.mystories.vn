@@ -22,10 +22,18 @@ if hexo-config('mouse.enable')
 @media(min-width: 768px)
     .outer, .wrap
         width $wrap-width !important
+    .vertical-ads
+        max-width: 255px;
+        width: 25rem !important
+        height: 100% !important
+        position: absolute
+        left: -28rem
+        top: 14rem
 @media(max-width: 768px)
     .tocbot
         display none !important
     .content
         &.on
             transform translateX($aside-width)
-    
+    .vertical-ads
+        display none !important
