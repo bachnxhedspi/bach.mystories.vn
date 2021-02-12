@@ -157,6 +157,7 @@ $.ajax({
         // skip
     },
     error: function (request, status, error) {
+        console.log(request, status, error);
         alert("Please disable adblock, it helps me running this blog :)");
     }
 });
