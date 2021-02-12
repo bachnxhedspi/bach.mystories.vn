@@ -4,6 +4,7 @@ date: 2020-07-28 17:36:05
 tags:
     - vlog
     - learning
+    - bachpack
 ---
 Sau quá trình tự mò mẫm thì đây là những điều mình học được, nếu bạn bắt đầu học thì có thể tham khảo nhé!
 

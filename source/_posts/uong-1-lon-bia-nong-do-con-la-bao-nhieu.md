@@ -3,6 +3,7 @@ title: Uống 1 lon bia nồng độ cồn tăng bao nhiêu?
 date: 2020-07-29 17:36:05
 tags:
     - vlog
+    - bachpack
 ---
 Thấy trên mạng có thông tin về vụ phải chờ 24h sau khi nhậu xong mới hết cồn nên mình xem thử có thật hay không; vì nếu như nhậu tối nay mà ngày hôm sau vẫn không được lái xe thì có vẻ trói chân nhau quá.
 
