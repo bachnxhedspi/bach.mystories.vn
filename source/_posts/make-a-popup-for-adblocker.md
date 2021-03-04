@@ -15,7 +15,7 @@ I found solutions [here](https://medium.com/javascript-in-plain-english/detectin
 
 <script src="https://gist.github.com/ravindu9701/d51b90655b1b51fee3ea629716084ddb.js"></script>
 
-But it seems to much, I just need simple one. I already have `jQuery`, after some trying there's my finally source.
+But it seems too much to me, I just need simple one. I already have `jQuery`, after some trying there's my finally source.
 
 <script src="https://gist.github.com/bachnxhedspi/f93bc0f2cb597e5bc2b7a6fc43692cd9.js"></script>
 
