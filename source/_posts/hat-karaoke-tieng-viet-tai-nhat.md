@@ -26,6 +26,8 @@ Về giá thì mình chọn hát 2 tiếng rưỡi và nomihoudai soft drink (u�
 - Chọn tên bài hát 
 ![Chọn tên theo các bước sau](https://i.imgur.com/1gM0fXZ.jpg)
   
+Hướng dẫn trên website của Joysound ở [đây](https://www.joysound.com/web/s/joy/naviapp/movieplayer).
+  
 Và bắt đầu hát thôi!
 
 Chúc các bạn có những buổi Karaoke vui vẻ!
