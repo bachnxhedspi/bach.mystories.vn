@@ -1,5 +1,5 @@
 ---
-title: Chuyện đi bơi
+title: Đi bơi ở Nhật 
 date: 2017-12-03 17:36:05
 tags: relax
 thumbnail: https://i.imgur.com/vtzeywZ.jpg
