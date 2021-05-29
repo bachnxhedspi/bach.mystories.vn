@@ -9,14 +9,21 @@ Có bằng lái xe rồi là mình muốn được leo lên xe chạy thử 1 v�
 
 Ngày đầu mình đăng ký của Anyca và Everygo thì có Everygo là chấp nhận đơn đăng ký của mình nhanh nhất. Không như Anyca có đa dạng các loại xe, Everygo là dịch vụ của Honda và chỉ có xe của Honda thôi. Ưu điểm là 100% xe đều do Honda vận hành và đều có thể ra bãi lấy luôn, không như thuê xe của chủ cá nhân thì còn phải chờ họ đồng ý nữa. Trong khu vực Kanto thì mình thấy cũng có khá nhiều xe và thời gian trống nhiều.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0RrKMT1ijg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- more -->
 
 Thủ tục đăng ký tại [đây](https://www.honda.co.jp/everygo/howtouse/), khi đăng ký cần có bằng lái xe và thẻ tín dụng credit (không dùng được thẻ debit) - có lẽ là để họ trừ tiền nếu xe có hỏng hóc gì ;))
 
-![Bản đồ xe](https://i.imgur.com/r8dlpsb.jpg)
-_Giả sử cần thuê xe 1 vài tiếng để tập thôi thì cũng có khá nhiều lựa chọn_ 
+Khi làm thủ tục đăng ký xong rồi thì sẽ phải chờ họ xác minh thông tin đăng ký (còn gọi là KYC - know your customer) nữa, như Everygo thì mình mất tầm 5 tiếng, còn Anyca thì phải sang tận hôm sau họ mới approve cho mình.
 
-Đăng ký xong rồi thì sẽ phải chờ họ xác minh thông tin đăng ký (còn gọi là KYC - know your customer) nữa, như Everygo thì mình mất tầm 5 tiếng, còn Anyca thì phải sang tận hôm sau họ mới approve cho mình.
+![Bản đồ xe](https://i.imgur.com/r8dlpsb.jpg)
+_Giả sử cần thuê xe 1 vài tiếng để tập thôi thì cũng có khá nhiều lựa chọn_
+
+Bảng giá các bạn có thể xem ở trang [này](https://www.honda.co.jp/everygo/price/). Gía thuê xe sẽ gồm phí cơ bản theo giờ và phí tính theo số km mình chạy. Như ngày đầu tiên mình thuê xe theo gói night pack (1500 yên từ 21h~7h) hết 1500 yên + 527 yên (do chạy 31km)
+
+![Hoá đơn thuê ngày đầu](https://i.imgur.com/v7FlC1o.jpg)
+
 
 ![Các bước sử dụng](https://i.imgur.com/yS4FtiK.png)
 
