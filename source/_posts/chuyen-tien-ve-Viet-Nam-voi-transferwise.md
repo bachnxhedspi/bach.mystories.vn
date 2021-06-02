@@ -1,5 +1,5 @@
 ---
-title: Chuyển tiền về Việt Nam với TransferWise
+title: Chuyển tiền về Việt Nam với Wise (tên cũ TransferWise)
 date: 2018-01-13 14:09:12
 tags: experience
 thumbnail: https://i.imgur.com/AFZUfgE.png
@@ -18,21 +18,21 @@ Tỉ giá này theo mình thấy khá tốt, tìm trong google với cụm "1 jp
 
 ![Có thể đăng nhập bằng tài khoản Facebook hoặc Google luôn](https://i.imgur.com/Gdsf3Ah.png?1)
 
-Ở Nhật việc dùng dịch vụ của các tổ chức tài chính khá tiện, có thể đăng ký và giao dịch online được. Đối với TransferWise cần thêm 1 số thông tin như thẻ ngoại kiều, mã số cá nhân (my number) và địa chỉ nhà; phần này bạn chụp ảnh và tải lên để xác nhận là ổn. Khi quá trình xác thực hoàn thành + chuyển tiền vào tài khoản của TransferWise thì tiền sẽ được chuyển đi.
+Ở Nhật việc dùng dịch vụ của các tổ chức tài chính khá tiện, có thể đăng ký và giao dịch online được. Đối với Wise (TransferWise) cần thêm 1 số thông tin như thẻ ngoại kiều, mã số cá nhân (my number) và địa chỉ nhà; phần này bạn chụp ảnh và tải lên để xác nhận là ổn. Khi quá trình xác thực hoàn thành + chuyển tiền vào tài khoản của Wise thì tiền sẽ được chuyển đi.
 
 ![Xác thực thông tin cá nhân](https://i.imgur.com/q9NnWRr.png?1)
 
 ![Thư gửi đến để xác nhận địa chỉ nhà](https://i.imgur.com/nzOiv2t.jpg)
 
- Trong thư xác nhận sẽ có 1 mã code, nhập vào web của TransferWise để xác nhận địa chỉ để hoàn thành quá trình đăng ký và sau đó tiền được chuyển đi. Thế nhưng lúc mình nhận được thư, chưa cần nhập mã xác thực lên web thì đã có thông báo bắt đầu chuyển tiền rồi. Mình đoán lý do là chỉ cần bưu điện báo chuyển thư thành công là quá trình xác nhận hoàn tất rồi. 
+ Trong thư xác nhận sẽ có 1 mã code, nhập vào web của Wise (TransferWise) để xác nhận địa chỉ để hoàn thành quá trình đăng ký và sau đó tiền được chuyển đi. Thế nhưng lúc mình nhận được thư, chưa cần nhập mã xác thực lên web thì đã có thông báo bắt đầu chuyển tiền rồi. Mình đoán lý do là chỉ cần bưu điện báo chuyển thư thành công là quá trình xác nhận hoàn tất rồi. 
 
-Về thời gian chuyển tiền của TransferWise với trường hợp của mình như sau:
-- Hoàn thành đăng ký tài khoản và chuyển tiền cho TransferWise vào tối 8/1 (thứ 2)
-- TransferWise báo nhận tiền và bắt đầu chuyển tiền vào 10/1
+Về thời gian chuyển tiền của Wise với trường hợp của mình như sau:
+- Hoàn thành đăng ký tài khoản và chuyển tiền cho Wise vào tối 8/1 (thứ 2)
+- Wise báo nhận tiền và bắt đầu chuyển tiền vào 10/1
 - Mình nhận được thư xác nhận địa chỉ vào 11/1
 - Người nhà mình nhận tiền vào 12/1
 
-Do lần đầu cần làm thêm thủ tục xác nhận địa chỉ nên hơi lâu, lần sau chuyển có thể sẽ nhanh hơn 1 chút. Lưu ý là khi chuyển tiền cho TransferWise cần thêm mã số khách hàng vô sau tên để xác nhận nhanh hơn. Ví dụ tên là Nguyễn Văn A, mã số khách hàng là P6409562 thì ghi vô tên người chuyển là "Nguyen Van A P6409562". Phần này thì tùy từng ngân hàng sẽ khác nhau nhưng đa số các ngân hàng đều có thể đổi tên người gửi được. Khi chuyển tiền thì TransferWise sẽ có hướng dẫn cụ thể phần hơn.
+Do lần đầu cần làm thêm thủ tục xác nhận địa chỉ nên hơi lâu, lần sau chuyển có thể sẽ nhanh hơn 1 chút. Lưu ý là khi chuyển tiền cho Wise cần thêm mã số khách hàng vô sau tên để xác nhận nhanh hơn. Ví dụ tên là Nguyễn Văn A, mã số khách hàng là P6409562 thì ghi vô tên người chuyển là "Nguyen Van A P6409562". Phần này thì tùy từng ngân hàng sẽ khác nhau nhưng đa số các ngân hàng đều có thể đổi tên người gửi được. Khi chuyển tiền thì Wise sẽ có hướng dẫn cụ thể phần hơn.
 
 Sau đó thì có thể xuất ra file pdf của giao dịch này, cuối năm nộp cùng với hồ sơ điều chỉnh thuế là cũng giảm được 1 khoản rồi :) Thường mình thấy HR của công ty sẽ lo việc này giúp mình luôn nên cũng không cần phải suy nghĩ quá nhiều.
 
