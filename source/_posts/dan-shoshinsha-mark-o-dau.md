@@ -15,7 +15,7 @@ Nếu lái xe dưới 1 năm mà không dán thì sẽ bị phạt như sau:
 - Với những người quá 1 năm mà vẫn dán thì không sao, những người lấy bằng mà vẫn chưa tự tin (ペーパードライバ) có thể dán để mọi người ưu tiên nhường nhịn cho mình nhé.
 
 Thế nhưng nếu dán không cẩn thận thì có thể bị bay như thế này, giờ thì xem các cách mình có thể dán 初心車マーク nhé.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opcDGn55keE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- more -->
 
 Có 2 loại là `マグネット式 (nam châm)` và `吸盤式 (hút chân không)`. Mình cần dán vào những vị trí sau:
