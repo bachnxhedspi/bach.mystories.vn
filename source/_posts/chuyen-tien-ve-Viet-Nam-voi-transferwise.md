@@ -42,4 +42,4 @@ Bố mình vẫn bảo là làm ở Nhật nhưng mà mang tiền ấy về Vi�
 
 P/S 1: thông tin ngân hàng Việt Nam có thể tìm ở trang [theswiftcodes.com](https://www.theswiftcodes.com/vietnam/) Như của Vietinbank thì tên ngân hàng là VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE, swift code là ICBVVNVX
 
-P/S 2: hãy dùng link giới thiệu của mình ở [đây](https://transferwise.com/u/xuann12) nhé :)
+P/S 2: hãy dùng link giới thiệu của mình ở transferwise.com/u/xuann12 nhé (phiền các bạn copy/paste vào trình duyệt để tránh bị block)

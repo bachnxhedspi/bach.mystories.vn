@@ -4,6 +4,7 @@ date: 2021-05-29 12:34:56
 tags:
     - vlog
     - bachpack
+    - driving
 ---
 Có bằng lái xe rồi là mình muốn được leo lên xe chạy thử 1 vòng ngoài đời xem thế nào, nhưng mà search 1 hồi thì thấy các công ty cho thuê xe truyền thống của Nhật khá hạn chế cho người mới lấy bằng lái xe (初心運転車). Có chỗ không cho người dưới 1 năm lái, có chỗ lại cần người có kinh nghiệm đi cùng. Cuối cùng mình tìm thấy các app cho thuê xe theo kiểu Carsharing có thủ tục đơn giản, có thể ra bãi lấy xe mà không cần phải tiếp xúc với nhân viên.
 
@@ -38,4 +39,10 @@ Vậy là có thể bắt đầu sử dụng xe rồi. Phía sau thùng xe có h
 
 P/S: ngoài ra mình có dùng thử cả Anyca cũng thấy có nhiều ưu điểm. Bài sau mình sẽ nói kỹ hơn nhé; các bạn đăng ký hãy dùng mã giới thiệu của mình `bach101` để nhận 2500 yên nhé - tất nhiên mình cũng sẽ được 1 ít tiền, mà chưa có ai nhập mã nên không biết được bao nhiêu nữa =))
 
-![Mã giới thiệu Anyca](https://i.imgur.com/fVSd40Y.jpg)
+
+![Cách nhập](https://i.imgur.com/DCPiJ7U.png)
+_Chọn bất kỳ cách đăng ký nào_
+
+![Cách nhập](https://i.imgur.com/aIJ0ffI.png)
+_Nhập mã `bach101` nhé_
+
