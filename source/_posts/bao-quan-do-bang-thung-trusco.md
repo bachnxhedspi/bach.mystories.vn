@@ -3,6 +3,7 @@ title: Bảo quản đồ bằng thùng nhựa trusco - trữ sách kiểu công
 date: 2021-06-13 10:10:10
 tags:
     - bachpack
+    - chuyen-nha
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g7qz4IKUwhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
