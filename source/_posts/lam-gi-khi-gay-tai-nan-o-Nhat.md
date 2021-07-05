@@ -8,7 +8,7 @@ tags:
 
 Khi tham gia giao thông thì dù có cẩn thận đến đâu thì cũng không thể đảm bảo 100% là sẽ không gây ra tai nạn được. Hôm trước mình trót gây ra “sự cố” nho nhỏ và có tiếp xúc với cảnh sát. Xin được note lại những điều cần chú ý tại đây.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLSHVEirA40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nw7GTjrjojk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- more -->
 
