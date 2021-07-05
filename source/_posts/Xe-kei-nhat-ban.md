@@ -4,6 +4,7 @@ date: 2021-06-13 10:10:10
 tags:
     - bachpack
     - chuyen-nha
+    - driving
 ---
 
 Ở Việt Nam thì mấy chiếc xe nhỏ như i10, morning,... phổ biến nhờ kiểu dáng nhỏ và giá thành hợp lý; thế nhưng về độ tiện dụng thì không thể so sánh với những chiếc xe kei của Nhật được. Với giá tầm 150man ~300tr cho xe mới và đâu đó hơn 100tr cho xe đời 2k15 là có 1 con xe
